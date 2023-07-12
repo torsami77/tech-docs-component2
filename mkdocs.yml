@@ -1,0 +1,8 @@
+site_name: "tech-docs-component2"
+site_description: "Implementing tech docs"
+
+nav:
+  - Getting Started: index.md
+  - Team Information: maintainers.md
+plugins:
+  - techdocs-core
